@@ -148,7 +148,7 @@ a {
 /* 5. Header */
 .header {
   height: 1002px;
-  background: #888888 url("images/diner-336499.jpg") 50% 0 no-repeat fixed;
+  background: #888888 url("images/header.jpg") 50% 0 no-repeat fixed;
   background-size: cover;
   color: white;
   z-index: 1;
