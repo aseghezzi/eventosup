@@ -525,7 +525,7 @@ a {
         font-size: 1.22222em; } }
 
 .why {
-  background: black url("images/14gfPkZbw.jpg") no-repeat 50% 0 fixed;
+  background: black url("images/body.jpg") no-repeat 50% 0 fixed;
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.6))), url("images/14gfPkZbw.jpg") no-repeat 50% 0 fixed;
   /* Saf4+, Chrome */
   background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("images/14gfPkZbw.jpg") no-repeat 50% 0 fixed;
